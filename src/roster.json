@@ -1,0 +1,35 @@
+{
+    "roster": [
+        {
+            "id": 1,
+            "name": "James Harden",
+            "stats": 29.8
+        },
+        {
+            "id": 2,
+            "name": "Giannis Antentekoumpo",
+            "stats": 23.5
+        },
+        {
+            "id": 3,
+            "name": "Kevin Durant",
+            "stats": 28.3
+        },
+        {
+            "id": 4,
+            "name": "Kyrie Irving",
+            "stats": 25.4
+        },
+        {
+            "id": 5,
+            "name": "Russel Westbrook",
+            "stats": 27.3
+        },
+        {
+            "id": 6,
+            "name": "Lebron James",
+            "stats": 24.8
+        }
+        
+    ]
+}
